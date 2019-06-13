@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - No new changes at the moment
 
+## [0.1.1] - 13-06-2019
+
+### Fixed
+
+- VPN client launch command.
+
 ## [0.1.0] - 11-06-2019
 
 - First release productive
