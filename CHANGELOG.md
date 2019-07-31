@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - No new changes at the moment
 
+## [0.1.3] - 31-07-2019
+
+### Fixed
+
+- HTTP proxy error.
+
 ## [0.1.2] - 31-07-2019
 
 ### Fixed
