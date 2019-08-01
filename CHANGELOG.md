@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - No new changes at the moment
 
+## [0.3.0] - 01-08-2019
+
+### Changed
+
+- squid service restart if network ips change.
+
 ## [0.2.0] - 31-07-2019
 
 ### Changed
