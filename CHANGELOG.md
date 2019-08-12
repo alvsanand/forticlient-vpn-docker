@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - No new changes at the moment
 
+## [0.3.1] - 12-08-2019
+
+### Fixed
+
+- squid config.
+
 ## [0.3.0] - 01-08-2019
 
 ### Changed
