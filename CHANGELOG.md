@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - No new changes at the moment
 
+## [0.4.0] - 27-03-2020
+
+### Added
+
+- Firefox.
+
 ## [0.3.1] - 12-08-2019
 
 ### Fixed
